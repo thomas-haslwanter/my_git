@@ -1,2 +1,2 @@
-# my_git
+# my_vim
 nvim config files
